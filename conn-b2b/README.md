@@ -13,4 +13,5 @@ Board to Board connectors
       http://portal.fciconnect.com/Comergent/fci/drawing/61083.pdf
 
        * 04xx0 : 2x20 pins with polarization peg
+       * 06xx0 : 2x30 pins with polarization peg
        * 10140 : 2x50 pins with polarization peg
