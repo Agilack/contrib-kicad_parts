@@ -8,11 +8,12 @@ Board to Board connectors
 
        * 04xx0 : 2x20 pins with polarization peg
        * 06xx0 : 2x30 pins with polarization peg
-       * 06xx0 : 2x40 pins with polarization peg
+       * 08xx0 : 2x40 pins with polarization peg
 
   * 61083 : Plugs 0.8mm
       http://portal.fciconnect.com/Comergent/fci/drawing/61083.pdf
 
        * 04xx0 : 2x20 pins with polarization peg
        * 06xx0 : 2x30 pins with polarization peg
+       * 08xx0 : 2x40 pins with polarization peg
        * 10140 : 2x50 pins with polarization peg
