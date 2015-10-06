@@ -8,4 +8,5 @@ Footprint for SOP chips
  * TSOP 44 : Thin SOP 44 pins
 
  * TSSOP16 : Thin Shrink SOP 16 pins, pitch=0,65mm
+ * TSSOP20 : Thin Shrink SOP 20 pins, pitch=0,65mm
  * TSSOP28 : Thin Shrink SOP 28 pins, pitch=0,65mm, size=5,30 x 10,20
