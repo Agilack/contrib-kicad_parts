@@ -16,3 +16,7 @@ Ethernet Controllers
   * LAN8710A : 10/100 Microchip PHY ethernet transceiver
 
       http://www.microchip.com/wwwproducts/Devices.aspx?product=LAN8710A
+
+  * W7500    : Wiznet ethernet MAC with integrated MCU and TCP/IP offload IP
+
+      http://www.wiznet.co.kr/product-item/w7500/
