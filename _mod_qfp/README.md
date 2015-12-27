@@ -7,4 +7,7 @@ Footprint fot QFP chips
  * LQFP 64 : Low profile QFP, 64 pins, pitch=0.4mm, chip size=7mmx7mm
 
  * TQFP 44 :  44 pins, pitch 0.8mm, chip size= 10mm x 10mm
+
+ * TQFP100 : 100 pins, pitch 0.5mm, chip size= 10mm x 10mm
+
  * TQFP144 : 144 pins, pitch 0.5mm, chip size= 22mm x 22mm
