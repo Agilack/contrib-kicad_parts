@@ -21,3 +21,7 @@ Board to Board connectors
   * ASP-134603-01 : Vita57 FMC CC-LPC-10 female connector
 
       http://suddendocs.samtec.com/prints/asp-134603-01-mkt.pdf
+
+  * ASP-134604-01 : Vita57 FMC MC-LPC-10 male connector
+
+      http://suddendocs.samtec.com/prints/asp-134604-01-mkt.pdf
