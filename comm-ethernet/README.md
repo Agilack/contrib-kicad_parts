@@ -9,6 +9,10 @@ Ethernet Controllers
   * KSZ8001 : 10/100 PHY layer transceiver
       http://www.micrel.com/_PDF/Ethernet/datasheets/KSZ8001L_S.pdf
 
+  * KSZ8081 : 10/100 PHY layer transceiver
+
+      http://www.microchip.com/wwwproducts/en/KSZ8081
+
   * KSZ8091 : 10/100 PHY layer transceiver
 
       http://www.micrel.com/index.php/products/lan-solutions/phys/article/9-ksz8091mnx.html
