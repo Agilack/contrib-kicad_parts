@@ -13,3 +13,6 @@ Logic circuits
 
   * SN74LVC1T45 : Single bit dual supply bus transceiver
       http://www.ti.com/product/sn74lvc1t45
+
+  * TXS0108E : 8-bits bi-directional level shifter, voltage translator
+      http://www.ti.com/lit/ds/symlink/txs0108e.pdf
