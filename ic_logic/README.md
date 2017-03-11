@@ -11,6 +11,9 @@ Logic circuits
       http://www.onsemi.com/PowerSolutions/product.do?id=MC74AC573
       https://www.fairchildsemi.com/products/logic/flip-flops-latches-registers/latches/74VHC573.html
 
+  * SN74AUP1G57 : Low power configurable multiple-function gate
+      http://www.ti.com/lit/ds/symlink/sn74aup1g57.pdf
+
   * SN74LVC1T45 : Single bit dual supply bus transceiver
       http://www.ti.com/product/sn74lvc1t45
 
