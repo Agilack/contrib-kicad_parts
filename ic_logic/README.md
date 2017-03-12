@@ -14,6 +14,9 @@ Logic circuits
   * SN74AUP1G57 : Low power configurable multiple-function gate
       http://www.ti.com/lit/ds/symlink/sn74aup1g57.pdf
 
+  * SN74AUP1G99 : Low power configurable multiple-function gate with 3 state output
+      http://www.ti.com/lit/ds/symlink/sn74aup1g99.pdf
+
   * SN74LVC1T45 : Single bit dual supply bus transceiver
       http://www.ti.com/product/sn74lvc1t45
 
