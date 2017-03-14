@@ -14,6 +14,9 @@ Logic circuits
   * SN74AUP1G57 : Low power configurable multiple-function gate
       http://www.ti.com/lit/ds/symlink/sn74aup1g57.pdf
 
+  * SN74AUP1G86 : Single 2-inputs exclusive-OR gate
+      http://www.ti.com/lit/ds/symlink/sn74lvc1g86.pdf
+
   * SN74AUP1G99 : Low power configurable multiple-function gate with 3 state output
       http://www.ti.com/lit/ds/symlink/sn74aup1g99.pdf
 
