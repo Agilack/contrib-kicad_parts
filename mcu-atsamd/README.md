@@ -23,4 +23,7 @@ Atmel ATSAMD MCU
 
   * ATSAMD21Exx : Small ATSAMD MCU in QFN24 package
 
-    * ATSAMD21E18A : 128kB flash, TQFP32 package, [more info](http://www.microchip.com/wwwproducts/en/ATSAMD21E18)
+    * ATSAMD21E15A :  32kB flash,  4kB RAM, 32 pins package, [more info](http://www.microchip.com/wwwproducts/en/ATSAMD21E15) [datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/40001882A.pdf)
+    * ATSAMD21E16A :  64kB flash,  8kB RAM, 32 pins package, [more info](http://www.microchip.com/wwwproducts/en/ATSAMD21E16) [datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/40001882A.pdf)
+    * ATSAMD21E17A : 128kB flash, 16kB RAM, 32 pins package, [more info](http://www.microchip.com/wwwproducts/en/ATSAMD21E17) [datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/40001882A.pdf)
+    * ATSAMD21E18A : 256kB flash, 32kB RAM, 32 pins package, [more info](http://www.microchip.com/wwwproducts/en/ATSAMD21E18) [datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/40001882A.pdf)
