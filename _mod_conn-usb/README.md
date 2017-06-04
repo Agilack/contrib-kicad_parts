@@ -1,6 +1,8 @@
 Footprint for USB connector
 ===========================
 
+ * 47346-001 : Molex micro USB, type B receptacle, bottom surface mount
+
  * 65100516121 : Wurth MiniUSB 2 SMT connector
     [Info Page](http://katalog.we-online.de/en/em/COM_SMT_MINI_TYPE_B_HORIZONTAL)
     [Datasheet](http://katalog.we-online.de/em/datasheet/65100516121.pdf)
